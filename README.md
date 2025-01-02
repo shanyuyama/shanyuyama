@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I'm a chemistry student from China (temporarily)😄
+If you ask me why using GITHUB, then I'll say just for fashion, for the language I use is just PYTHON🤔
+But I'm trying to create some awesome projects for like calculation chemistry, machine learning for electrolyte etc.
+Welcome to view my repositories, but only those i set public to you guys⚡⚡⚡⚡⚡
 <!--
 **shanyuyama/shanyuyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
