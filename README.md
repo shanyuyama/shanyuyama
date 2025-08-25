@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm a chemistry student from China (temporarily)😄
+I'm a chemistry student from China😄
 
 If you ask me why using GITHUB, then I'll say just for fashion, for the language I use is just PYTHON🤔
 
